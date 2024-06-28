@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a graduate student with 3 years of work experience in software engineer domain. I worked with multiple projects where I got a chance to explore new technologies. I like working in team, I am passionate about learning. I believe no one is perfect we just need to learn and apply things and find the outcome.
+I am a graduate student with 3 years of work experience in software engineer domain. I worked with multiple projects where I got a chance to explore new technologies. I like working in team, I am passionate about learning new technologies/skills because different projects requires different set of skills. I believe no one is perfect we just need to learn and apply things and find the outcome.
 
 * 🌍  I'm based in Lafayette, Louisiana.
 * ✉️  You can contact me at [thirumala-maheswara-reddy.yenumula1@louisiana.edu](mailto:thirumala-maheswara-reddy.yenumula1@louisiana.edu)
 * 🧠  I'm learning Speech Emotion Recognition, Large Language Models.
-* 🤝  I'm open to collaborating on Development, Machine Learning, Data Analysis
+* 🤝  I'm open to collaborating on Software Development, Machine Learning, Data Analysis, Automation.
 
 ### Skills
 
