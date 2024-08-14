@@ -8,8 +8,8 @@ I am a graduate student with 5 years of work experience in Software engineering,
 
 * 🌍  I'm based in Lafayette, Louisiana.
 * ✉️  Contact me at [thirumala-maheswara-reddy.yenumula1@louisiana.edu](mailto:thirumala-maheswara-reddy.yenumula1@louisiana.edu)
-* 🧠  I'm learning Speech Emotion Recognition, Large Language Models.
-* 🤝  I'm open to collaborating on Software Development, Machine Learning, Data Analysis, Automation.
+* 🧠  Working on Speech Emotion Recognition, Large Language Models.
+* 🤝  I'm open to collaborating on Software Development, Machine Learning, Data Analysis, and Infrastructure Automation.
 
 ### Skills
 
